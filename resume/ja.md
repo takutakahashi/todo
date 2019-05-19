@@ -45,7 +45,7 @@ Kubernetes API からアプリケーションエンドポイントを配信す�
 
 ### Golang + Docker API を用いた Layer cache 有効な イメージビルド&プッシュサーバの開発と本番活用
 
-詳細は以下のスライドより．
+詳細は以下のスライドより．  
 https://speakerdeck.com/bankinc220/cash-wozhi-eru-google-kubernetes-engine?slide=51
 
 ローカルビルドからリモートビルドへの移行時に，レイヤーキャッシュが使えずにビルド時間が遅くなるという課題があった．  

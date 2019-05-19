@@ -38,6 +38,8 @@ Blue-Green Deployment とは，本番環境を2系統デプロイし，障害時
 詳細は以下のスライドより．  
 https://speakerdeck.com/bankinc220/cash-wozhi-eru-google-kubernetes-engine?slide=38
 
+#### 概要
+
 ネイティブアプリ開発時に，サーバサイドアプリケーションの開発環境切り替えをアプリビルドで実施しており，  
 切り替えに時間がかかるという課題があった．  
 Kubernetes API からアプリケーションエンドポイントを配信するサービスを作成し，  
@@ -48,11 +50,13 @@ Kubernetes API からアプリケーションエンドポイントを配信す�
 詳細は以下のスライドより．  
 https://speakerdeck.com/bankinc220/cash-wozhi-eru-google-kubernetes-engine?slide=51
 
+#### 概要
+
 ローカルビルドからリモートビルドへの移行時に，レイヤーキャッシュが使えずにビルド時間が遅くなるという課題があった．  
 その課題を，ミニマルなビルドサーバアプリケーションを作成，構築することにより解消した．  
 これにより，7-10分必要としていた CI を 3-5分へと短縮することに成功した．  
 
-## 対外実績
+## 対外発表等
 
 [登壇] Google Cloud Next 2018 in Tokyo 「CASH を支える Google Kubernetes Engine」
 https://cloud.withgoogle.com/next18/tokyo/sessions/session/223338

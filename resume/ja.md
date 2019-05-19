@@ -57,10 +57,10 @@ https://speakerdeck.com/bankinc220/cash-wozhi-eru-google-kubernetes-engine?slide
 [登壇] Google Cloud Next 2018 in Tokyo 「CASH を支える Google Kubernetes Engine」
 https://cloud.withgoogle.com/next18/tokyo/sessions/session/223338
 
-[LT] BANK Enginner Night #2
+[LT] BANK Enginner Night #2  
 https://speakerdeck.com/bankinc220/bank-engineer-night-number-02
 
-[メディア] GCP 導入事例インタビュー
+[メディア] GCP 導入事例インタビュー  
 https://cloudplatform-jp.googleblog.com/2019/03/Bank-Cash-Google-Kubernetes-Engine.html
 
 ---

@@ -4,9 +4,6 @@ I'm Takuya TAKAHASHI working in Japan as a Software and Site Reliability Enginne
 
 My base is cloud infrastructure such as server virtualization on kvm, qemu, and cloud networkng.
 
-I've worked at Yahoo! JAPAN for 2 years as Cloud Infrastructure Enginner.
-I was developped OpenStack Neutron (Networking component) plugin here.
-
 I'm interested in DevOps and container orcastration. For example, Kubernetes, Docker, gVisor, and so on.
 
 I want to work as a DevOps Enginner. And I'm sure I'm good at developing DevOps workflow and pipeline because I'm working as a Backend Enginner using Ruby on Rails.
@@ -39,5 +36,7 @@ I handled Smartphone app's backend on GKE(Google Kubernetes Engine).
   As a result, we could rollback easily and incident time was shorten. (10m to 3s)
 - I handled 70 times normal amount of spike requests with capacity planning.
 
+
+### My strong points and interests
 I'm good at develop (deploy,develop) workflow without dev-speed-slowdown.
 I have knowledge of low-layer basis about network, OS, Hardware for cloud computing.

@@ -6,14 +6,15 @@
 |  2013/02 - 2015/03 | 株式会社NEOPA | アルバイトでフロントエンドエンジニア |
 |  2014/08 | ヤフー株式会社 | インフラストラクチャインターン参加 |
 |  2016/04 - 2018/04 | ヤフー株式会社 | 新卒入社．プライベートクラウド開発に従事 |
-|  2018/05 - present | 株式会社バンク | Ruby エンジニア兼クラウドインフラエンジニア兼 DevOps エンジニア |
+|  2018/05 - 2019/09 | 株式会社バンク | Ruby エンジニア兼クラウドインフラエンジニア兼 DevOps エンジニア |
+|  2019/05 - Present | GMOペパボ株式会社 | インフラエンジニア・SRE・プラットフォームエンジニア |
 
 ## 概要
 
 OpenStack を用いた大規模社内プライベートクラウド開発，運用から，Rails を用いたアプリケーション開発を経験しました．  
 デプロイフロー構築や，Dev に優しい Ops を構築することが得意です．  
 小規模 → 中規模への移行期に必要となる，開発フローのインターフェース化や，自動化が得意です．  
-自身がスタートアップでサーバサイド開発に従事しているため，開発スピードを意識したフロー構築が得意です．  
+自身がスタートアップでサーバサイド開発に従事した経験を持つため，開発スピードを意識したフロー構築が得意です．
 
 ## 開発実績
 
@@ -58,6 +59,9 @@ https://speakerdeck.com/bankinc220/cash-wozhi-eru-google-kubernetes-engine?slide
 
 ## 対外発表等
 
+[登壇] ペパボ・はてな技術大会〜@オンライン 「Site Reliability 向上のためにやったことすべて」
+https://speakerdeck.com/takutakahashi/site-reliability-woxiang-shang-surutameniyatutakotosubete
+
 [登壇] Google Cloud Next 2018 in Tokyo 「CASH を支える Google Kubernetes Engine」
 https://cloud.withgoogle.com/next18/tokyo/sessions/session/223338
 
@@ -77,15 +81,15 @@ https://cloudplatform-jp.googleblog.com/2019/03/Bank-Cash-Google-Kubernetes-Engi
 | :---: | :--- | :--- |
 |  |  HTML  |  不可  |
 |  |  CSS/SASS  |  不可  |
-|  |  JavaScript  |  既存プロジェクトの改修を実施可能  |
-|  |  Vue.js  |  既存プロジェクトの改修を実施可能  |
+|  |  JavaScript  |  不可  |
+|  |  Vue.js  |  不可  |
 
 ### ネイティブアプリ開発
 
 | 実務半年以上経験 |  技術  |  習熟度  |
 | :---: | :--- | :--- |
 |  | iOS  | 不可 |
-|  | Android  | 専門ではないが，既存プロジェクトの改修を実施可能  |
+|  | Android  | 不可  |
 
 ### サーバサイド
 
@@ -94,7 +98,7 @@ https://cloudplatform-jp.googleblog.com/2019/03/Bank-Cash-Google-Kubernetes-Engi
 | ○ |  Ruby (Rails)  | ゼロベース開発可能  |
 | ○ |  Python (Django)  | ゼロベース開発可能  |
 |  |  Node.js (Express)  | ゼロベース開発可能  |
-|  |  Golang  | 既存プロジェクトの改修を実施可能  |
+|  |  Golang  | ゼロベース開発可能  |
 
 ### ミドルウェア
 
@@ -117,5 +121,7 @@ https://cloudplatform-jp.googleblog.com/2019/03/Bank-Cash-Google-Kubernetes-Engi
 | ○ | ネットワーク | クラウド環境における初期構築・運用可能  |
 |  | ストレージ | クラウド環境の構築やアドバイス，オンプレミスにおける構成確認等可能 |
 | ○ | パブリッククラウド (GCP) | 初期構築・運用・ロール管理等込み入った設定が可能 |
+| ○ | パブリッククラウド (AWS) | 初期構築・運用・ロール管理等込み入った設定が可能 |
 |  | パブリッククラウド (その他) | 初期構築・運用可能 |
 | ○ | プライベートクラウド | 初期構築や運用・構成チェック可能 |
+| ○ | Terraform | 既存 Provider を用いたゼロベース開発可能 |
